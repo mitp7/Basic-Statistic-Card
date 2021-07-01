@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://mitp7.github.io/Basic-Statistic-Card/)
+-[Live Site URL](https://mitp7.github.io/Basic-Statistic-Card/)
 
 ## My process
 
