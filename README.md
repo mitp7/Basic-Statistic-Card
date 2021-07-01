@@ -18,8 +18,8 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop Version](./images/desktop-version.png)
-![Mobile Version](./images/mobile-version.png)
+![Desktop Version](./images/desktop-version.PNG)
+![Mobile Version](./images/mobile-version.PNG)
 
 ### Links
 
