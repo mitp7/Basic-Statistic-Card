@@ -14,12 +14,12 @@
 ### The challenge
 
 Users should be able to:
-
 - View the optimal layout depending on their device's screen size
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Desktop Version](desktop-version.png)
+![Mobile Version](mobile-version.png)
 
 ### Links
 
@@ -37,9 +37,9 @@ Users should be able to:
 ### What I learned
 
 From this challenge I learned more about how to build mobile friendly components by using the code created for the desktop versions. More importantly, I learned how media queries work based off given parameters which in this case is a 
-screen size. Using this you can change the css code to build the mobile version.
+screen size. Using this you can change the css code depending on how you want it to appear to build the mobile version.
 
-The code snippet for the mobile version which I created:
+The code snippet for the mobile version:
 
 ```css
 /*Code to make the card mobile friendly.*/
