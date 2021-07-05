@@ -1,4 +1,4 @@
-# Frontend Mentor - Stats preview card component solution
+# Statistics Preview Card Component 
 
 ## Table of contents
 
@@ -83,7 +83,3 @@ The code snippet for the mobile version:
     }
 }
 ```
-## Author
-
-- Frontend Mentor - [@Mit Patel](https://www.frontendmentor.io/profile/mitpatel)
-
